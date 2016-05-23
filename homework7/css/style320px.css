@@ -1,0 +1,162 @@
+@media (max-width: 479px){
+  body{
+    min-width: 320px;
+  }
+  .header{
+    width: 320px;
+  }
+  .menu480px{
+    left: 39px;
+    top: 124px;
+  }
+  .sliders{
+    height: 314px;
+  }
+  .sliders__background{
+    background: none;
+  }
+  .sliders__wrapper{
+    width: 320px;
+  }
+  .sliders_img{
+    display: none;
+  }
+  .sliders__leftbox{
+    top: 42%;
+  }
+  .sliders__centralbox{
+    width: 280px;
+  }
+  .sliders__text{
+    margin: 0;
+    padding: 0;
+  }
+  .sliders__hedline1{
+    padding-top: 17px;
+    margin-left: 47px;
+  }
+  .sliders__hedline2{
+    margin-left: 45px;
+    width: 210px;;
+  }
+  .sliders__radio-wrapper{
+    left: 103px;
+    top: 229px;
+    padding: 0;
+    margin: 0;
+  }
+  .sliders__rightbox{
+    top:42%;
+    right:-5px;
+  }
+  .about__wraper{
+    width: 320px;
+  }
+  .about__box1{
+    margin-top: 62px;
+    width: 300px;
+    overflow: hidden;
+  }
+  .about__content{
+    width: 191px;
+    overflow: hidden;
+  }
+
+  .about__paragraph{
+    width: 100%;;
+    padding: 0;
+    margin: 0;
+    height: 73px;
+    overflow: hidden;
+  }
+  .about__link{
+    margin: 18px 0px 0px 0px;
+  }
+  .about__box2{
+    height: 174px;
+    width: 300px;
+    overflow: hidden;;
+  }
+  .about__box3{
+    width: 287px;
+    overflow: hidden;
+
+  }
+  .lightgrey-wrapper1{
+    width: 100%;
+  }
+  .lightgrey-wrapper1__content{
+    width: 280px;
+
+  }
+  .testimonials{
+    overflow: hidden;
+    height: 330px;
+    width: 280px;
+    background: url(../img/bg-testimonials320px.png) top  no-repeat;
+  }
+  .testimonials__headline{
+    font-size: 24px;
+    margin-left: 60px;
+    padding-top: 0px;
+    width: 96px;
+    height: 38px;
+    margin-top: 24px;
+  }
+  .testimonials__paragraph{
+    padding-left: 72px;
+    padding-top: 6px;
+    width: 204px;
+    height: 193px;
+  }
+  .testimonials__radio-wrapper{
+    padding-left: 60px;
+    margin-top: 27px;
+
+  }
+  .fromblog{
+    width: 320px;
+    margin-top: 0px;
+    margin-left: 0;;;
+  }
+  .fromblog__headline{
+    margin-left: 0px;
+  }
+  .fromblog__post{
+    margin-left: 0px;
+    padding-top: 3px;
+  }
+  .flomblog__topic{
+    width: 168px;
+    overflow: hidden;
+    height: 16px;
+  }
+  .flomblog__link{
+    padding-right: 50px;
+
+  }
+  .lightgrey-wrapper2{
+    height: 418px;
+  }
+  .logos{
+    width: 320px;
+    background: url(../img/logos320px.png) no-repeat top;
+    margin-top: 50px;
+  }
+  .comments{
+    display: none;
+  }
+  .footer{
+    height: 202px;
+  }
+  .footer__nav{
+    width: 320px;
+  }
+  .footer__menu{
+    display: none;
+  }
+  .gesignedby{
+    margin: 0 auto;
+    padding-top: 41px;
+  }
+}

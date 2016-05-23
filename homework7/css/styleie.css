@@ -1,0 +1,46 @@
+.sliders__background{
+	background: url(../img/sliders-bg.png) repeat;
+}
+.sliders__switch{
+	background: url(../img/switch.png) no-repeat;
+}
+.about{
+	border-bottom: 1px solid #000;
+	
+}
+.lightgrey-wrapper1{
+	overflow: hidden;
+	border-top: none;
+	display: block;
+	position: relative;
+	
+}
+.testimonials_switch{
+	background: url(../img/switch-testimonials.png) no-repeat;
+}
+.lightgrey-wrapper2{
+	clear: both;
+	overflow: hidden;
+}
+.footer{
+	margin-top: 0px;
+	background: none;
+	background-color: #ececec;
+	
+}
+.comments{
+	overflow: hidden;
+	margin: 0 auto;
+	margin-top: 96px;
+	margin-bottom: 96px;
+}
+.comments__box{
+	margin-right: 0;
+	float: left;
+	width: 300px;
+}
+.footer__navigation{
+	clear: both;
+	background: url(../img/footer-bg.jpg) no-repeat;
+	
+}
